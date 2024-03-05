@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ranjith-kumar/static/css/main.cbc512fe.css",
+    "main.js": "/ranjith-kumar/static/js/main.b46ac9cc.js",
+    "static/js/453.1b6cbde4.chunk.js": "/ranjith-kumar/static/js/453.1b6cbde4.chunk.js",
+    "static/media/photo1.jpg": "/ranjith-kumar/static/media/photo1.12768501ab6b728af1d7.jpg",
+    "index.html": "/ranjith-kumar/index.html",
+    "main.cbc512fe.css.map": "/ranjith-kumar/static/css/main.cbc512fe.css.map",
+    "main.b46ac9cc.js.map": "/ranjith-kumar/static/js/main.b46ac9cc.js.map",
+    "453.1b6cbde4.chunk.js.map": "/ranjith-kumar/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbc512fe.css",
+    "static/js/main.b46ac9cc.js"
+  ]
+}
